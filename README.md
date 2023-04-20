@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">I'm 15 and have been learning programming since December 2021 and want to become a full stack developer</h3>
+<h3 align="center">I'm 16, I have been learning programming since December 2021. My goal is to become a full stack developer</h3>
 
-- 🔭 I’m currently working on **playology studio** and **Meally**
+- 🔭 I’m currently working on [**Meally**](https://www.meally.com.au)
 
-- 🌱 I’m currently learning **Next js, angular, advanced Css, React native / flutter**
+- 🌱 I’m currently learning **Next js & React, Agular, C#**
 
 - 👨‍💻 All of my projects are available at [github.com/Eirfire](github.com/Eirfire)
 
