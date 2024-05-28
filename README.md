@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">I'm 16, I have been learning programming since December 2021. My goal is to become a full stack developer</h3>
+<h3 align="center">I'm 17, I have been learning programming since December 2021. My goal is to become a full stack developer</h3>
 
 - 🔭 I’m currently working on [**Mixie**](https://www.mixiecooking.com)
 
