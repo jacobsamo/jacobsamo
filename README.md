@@ -1,7 +1,9 @@
-
-
-<img src="https://jacobsamo.com/profile-picture.jpg" alt="Jacob's profile picture" loading="lazy" decoding="async" fetchpriority="auto" width="128" height="128" style="border-radius: 50%;" align="center" />
-<h1 align="center">👋 Hey, I'm Jacob Samorowski</h1>
+<p align="center">
+  <a href="https://jacobsamo.com">
+    <img src="https://jacobsamo.com/profile-picture.jpg" alt="Jacob's profile picture" loading="lazy" decoding="async" fetchpriority="auto" width="128" height="128" style="width:128px; height:128px; border-radius:50%;">
+    <h1 align="center">Hey, I'm Jacob Samorowski</h1>
+  </a>
+</p>
 
 <p align="center">
   Developer • Photographer • Maker • Founder <br/>
